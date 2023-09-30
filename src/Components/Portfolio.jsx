@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Lapton on the table with different electronic devices.";
 
 /**
  * Project list
@@ -37,16 +37,16 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "How I Built a Data Lakehouse With Delta Lake Architecture.",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Data Engineer Explains the Data Lakehouse Architecture.",
+    url: "https://medium.com/@nickefy/how-i-built-a-data-lakehouse-with-delta-lake-architecture-c7cdf0d18ee5",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created in VS Code and deployed to AWS S3 bucket web hosting. Includes my experience and design abilities.",
+    url: "http://ajabresume.s3-website-ap-northeast-1.amazonaws.com/",
   },
   {
     title: "GitHub Codespaces and github.dev",
