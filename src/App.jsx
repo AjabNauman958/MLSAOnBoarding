@@ -26,10 +26,10 @@ import "./styles.css";
 const siteProps = {
   name: "AJAB NAUMAN",
   title: "Data Enineer & Content Creator",
-  email: "Ajab.Nauman@studentambassadors.com",
+  email: "ajabnauman112@gmail.com",
   gitHub: "AjabNauman958",
   instagram: "",
-  linkedIn: "ajab-nauman",
+  linkedIn: "https://www.linkedin.com/in/ajab-nauman-472b49212",
   medium: "",
   twitter: "",
   youTube: "",
